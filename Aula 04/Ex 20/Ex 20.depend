@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1551828658 source:e:\fatec\3 semestre\estrutura de dados\exercicios\aula 04\ex 20\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
